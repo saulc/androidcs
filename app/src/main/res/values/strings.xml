@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="title_text">Get a Random Number!</string>
+</resources>
