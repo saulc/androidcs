@@ -2,4 +2,6 @@
     <string name="app_name">Random Number Generator</string>
     <string name="title_text">Get a Random Number!</string>
     <string name="check_text">Without Replacement</string>
+    <string name="replacement_error">Replacement Restriction: No values left.</string>
+    <string name="buttonclicked">Calculating entropy offset...</string>
 </resources>

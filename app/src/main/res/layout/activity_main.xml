@@ -27,8 +27,10 @@
         android:layout_marginTop="@dimen/margin"
         android:ems="10"
         android:inputType="number"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"
         app:layout_constraintTop_toBottomOf="@id/title"
-        android:text=""  />
+        android:text="0"  />
 
     <EditText
         android:id="@+id/num2"
@@ -37,7 +39,9 @@
         android:layout_marginTop="@dimen/margin"
         android:ems="10"
         android:inputType="number"
-        android:text=""
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"
+        android:text="11"
         app:layout_constraintTop_toBottomOf="@id/num1" />
 
     <CheckBox
